@@ -42,5 +42,4 @@ book-price-scraper/
 ├── mock_server.py           # Servidor de prueba local
 ├── test_books.html          # HTML de prueba
 ├── requirements.txt         # Dependencias
-├── LICENSE
 └── README.md
