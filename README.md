@@ -26,5 +26,5 @@ Un scraper avanzado para extraer datos de libros de sitios web, con capacidad de
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/book-price-scraper.git
+git clone https://github.com/Gozv/Web-Scrapping-Py.git
 cd book-price-scraper
