@@ -4,23 +4,6 @@ Un scraper avanzado para extraer datos de libros de sitios web, con capacidad de
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 
-📂 Estructura del Proyecto
-
-book-price-scraper/
-├── scraper/
-│   ├── __init__.py
-│   └── book_scraper.py      # Script principal
-├── tests/
-│   ├── __init__.py
-│   └── test_scraper.py      # Pruebas unitarias
-├── data/                    # Datos generados (ignorado por git)
-├── mock_server.py           # Servidor de prueba local
-├── test_books.html          # HTML de prueba
-├── requirements.txt         # Dependencias
-├── LICENSE
-└── README.md
-
-
 ## 🚀 Características
 
 - Extracción multi-categoría con paginación automática
@@ -45,3 +28,19 @@ book-price-scraper/
 ```bash
 git clone https://github.com/Gozv/Web-Scrapping-Py.git
 cd book-price-scraper
+
+📂 Estructura del Proyecto
+
+book-price-scraper/
+├── scraper/
+│   ├── __init__.py
+│   └── book_scraper.py      # Script principal
+├── tests/
+│   ├── __init__.py
+│   └── test_scraper.py      # Pruebas unitarias
+├── data/                    # Datos generados (ignorado por git)
+├── mock_server.py           # Servidor de prueba local
+├── test_books.html          # HTML de prueba
+├── requirements.txt         # Dependencias
+├── LICENSE
+└── README.md
